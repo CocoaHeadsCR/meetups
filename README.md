@@ -1,4 +1,4 @@
-![CocoaHeadsCR "logo"][web/CocoaHeadsCR.png]
+![CocoaHeadsCR "logo"](web/CocoaHeadsCR.png)
 
 # MeetUps
 Presentaciones, demos y código de las charlas de [`@CocoaHeadsCR`][cocoaheads]
