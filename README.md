@@ -1,4 +1,5 @@
 ![CocoaHeadsCR "logo"](web/CocoaHeadsCR.png)
+<img src="http://cocoaheadscr.herokuapp.com/badge.svg">
 
 # Meetups
 Presentaciones, demos y código de las charlas de [`@CocoaHeadsCR`][cocoaheads]
