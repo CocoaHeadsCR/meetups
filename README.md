@@ -1,5 +1,5 @@
 ![CocoaHeadsCR "logo"](web/CocoaHeadsCR.png)
-<img src="http://cocoaheadscr.herokuapp.com/badge.svg">
+<br/ >Click para unirse: <img src="http://cocoaheadscr.herokuapp.com/badge.svg"> :boom:
 
 # Meetups
 Presentaciones, demos y código de las charlas de [`@CocoaHeadsCR`][cocoaheads]
